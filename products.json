@@ -2,21 +2,151 @@
   {
     "PNAME": "Game Zero",
     "GNAME": "",
-    "COST": "350.00",
-    "MSRP": "275.00",
-    "QHAND": "3",
-    "QBACK": "2",
-    "DESC": "Cool headset, works well",
+    "COST": "149.00",
+    "MSRP": "150.00",
+    "QHAND": "8",
+    "QBACK": "0",
+    "DESC": "The new closed back G4ME ZERO headset is ideal for immersive gaming at the highest level of competition. Designed to be the most comfortable and best sounding closed headset on the market, the G4ME ZERO features XXL ear cups and a new ear pad design making it the perfect choice for immersive gaming. Drawing on Sennheiser's experience in creating professional headsets for aviation, layers of padding and memory foam are shaped to effectively shield the user from external sound and prevent gaming sound from disturbing others. This lets you hear every detail of the game, just as the game developers intended. G4ME ZERO is also perfect for the gamer on the move with a unique foldable design and supplied hard carry case.",
     "BRAND": "Sennheiser"
   },
   {
-    "PNAME": "Bumper",
+    "PNAME": "ATH-G1",
     "GNAME": "",
-    "COST": "25.00",
-    "MSRP": "22.00",
+    "COST": "229.00",
+    "MSRP": "230.00",
     "QHAND": "5",
     "QBACK": "1",
-    "DESC": "Not bad for $25",
-    "BRAND": "Razer"
+    "DESC": "The ATH-G1 premium gaming headset features specially tuned, large-diameter 45 mm drivers with a max input capacity of 1, 300 mW to deliver lively, studio-quality sound to any gaming environment. ",
+    "BRAND": "Audio-Technica"
+  },
+  {
+    "PNAME": "Quantum One",
+    "GNAME": "",
+    "COST": "399.99",
+    "MSRP": "400.00",
+    "QHAND": "2",
+    "QBACK": "5",
+    "DESC": "Take your gaming to a professional level with this JBL Quantum ONE over-ear gaming headset, featuring JBL QuantumSOUND Signature, QuantumSPHERE 360 technology for 3D-audio positioning, and DTS Headphone:X v2.0 audio. It offers active noise cancellation, RGB lighting, a game-chat balance dial, and a detachable voice-focus microphone to give you all the tools you'll need for victory.",
+    "BRAND": "JBL"
+  },
+  {
+    "PNAME": "Quantum 100",
+    "GNAME": "",
+    "COST": "59.98",
+    "MSRP": "60.00",
+    "QHAND": "12",
+    "QBACK": "5",
+    "DESC": "From the tiniest footsteps to the loudest explosion, JBL QuantumSOUND Signature makes every scene epic and every gamer more competitive. Our signature audio delivers the most realistic soundscape for a competitive advantage in any battle.",
+    "BRAND": "JBL"
+  },
+  {
+    "PNAME": "Reflect Flow",
+    "GNAME": "",
+    "COST": "269.98",
+    "MSRP": "270.00",
+    "QHAND": "6",
+    "QBACK": "0",
+    "DESC": "Enjoy the freedom to go further with JBL Reflect Flow headphones. Whether you’re in the gym training or outside on the go, the JBL Reflect Flow headphones are truly wireless to compliment your active lifestyle.",
+    "BRAND": "JBL"
+  },
+  {
+    "PNAME": "Inspire 100",
+    "GNAME": "",
+    "COST": "29.99",
+    "MSRP": "30.00",
+    "QHAND": "19",
+    "QBACK": "0",
+    "DESC": "Work out to your favorite tunes with the JBL Focus 100 In-Ear Sport Headphones in red/black. These earbuds use JBL Twistlock technology to stay in place. The 14.2mm drivers reproduce sound from 20 Hz to 20 kHz, and the Flexsoft silicone keeps you comfortable. Designed for intense workouts.",
+    "BRAND": "JBL"
+  },
+  {
+    "PNAME": "Stage A125C",
+    "GNAME": "",
+    "COST": "349.98",
+    "MSRP": "350.00",
+    "QHAND": "2",
+    "QBACK": "0",
+    "DESC": "Designed and engineered in JBL’s world-famous acoustic engineering facility in Northridge, California, the Stage A125C is the 5.25-inch 2-way center channel loudspeaker of the JBL Stage Series. The narrow footprint features a 2-way design with patented High-Definition Imaging (HDI™) waveguide geometry, 1-inch (25mm) Aluminum dome tweeter, and 5.25-inch (133mm) Polycellulose cone woofers for signature JBL bass.",
+    "BRAND": "JBL"
+  },
+  {
+    "PNAME": "HD 599",
+    "GNAME": "",
+    "COST": "199.95",
+    "MSRP": "200.00",
+    "QHAND": "14",
+    "QBACK": "0",
+    "DESC": "The best in class, remastered. The new HD 500 Series pushes performance to the next level. Topping the product line is the HD 599, a premium headphone for those seeking sophisticated sound, design and build quality. Powered by Sennheiser proprietary transducer technology and featuring the 'Ergonomic Acoustic Refinement' (E.A.R) design, the HD 599 represents a step into the world of audiophile sound reproduction.",
+    "BRAND": "Sennheiser"
+  },
+  {
+    "PNAME": "HD280PRO",
+    "GNAME": "",
+    "COST": "129.95",
+    "MSRP": "130.00",
+    "QHAND": "8",
+    "QBACK": "0",
+    "DESC": "The HD 280 PRO is a pair of closed, dynamic stereo headphones that deliver accurate, linear sound reproduction with up to 32dB of ambient noise attenuation for critical monitoring applications. Optimum impedance ensures universal compatibility, from home listening to studio monitoring. The space-saving design features collapsible, rotating ear cups that are very comfortable to wear, even if used for long periods of time.",
+    "BRAND": "Sennheiser"
+  },
+  {
+    "PNAME": "RS 135",
+    "GNAME": "",
+    "COST": "179.95",
+    "MSRP": "180.00",
+    "QHAND": "6",
+    "QBACK": "1",
+    "DESC": "The lightweight RS 135 lets you enjoy freedom of movement without cumbersome cables. The headphones come complete with an easy-to-use recharging system. After use, simply place the headphones onto their convenient transmitter base station and they will automatically recharge for the next use. Its easy to set them up too! ",
+    "BRAND": "Sennheiser"
+  },
+  {
+    "PNAME": "HD 400S",
+    "GNAME": "",
+    "COST": "89.99",
+    "MSRP": "90.00",
+    "QHAND": "9",
+    "QBACK": "1",
+    "DESC": "The HD 400S features a one-button smart remote conveniently located on the cable, which allows you to control music and take calls with ease, and the sturdy folding design makes these headphones durable and compact enough to be taken anywhere. Sennheiser dynamic drivers deliver a well-extended sound response with dynamic bass.",
+    "BRAND": "Sennheiser"
+  },
+  {
+    "PNAME": "ATH-PDG1",
+    "GNAME": "",
+    "COST": "109.00",
+    "MSRP": "110.00",
+    "QHAND": "22",
+    "QBACK": "0",
+    "DESC": "Designed for the serious gamer who values the natural sound and feel of open-air headphones, the ATH-PDG1 gaming headset delivers powerful, detailed audio and long-lasting comfort. The large 40mm drivers with CCAW voice coils are specially tuned to reproduce all the lively sonic detail today's games have to offer, while the headphones' lightweight, honeycomb aluminum casing affords a natural, spacious sound and keeps your ears cool even under the most intense gaming fire.",
+    "BRAND": "Audio-Technica"
+  },
+  {
+    "PNAME": "TH-WP900",
+    "GNAME": "",
+    "COST": "949.99",
+    "MSRP": "950.00",
+    "QHAND": "4",
+    "QBACK": "0",
+    "DESC": "The ATH-WP900 portable over-ear headphones feature beautiful flame maple housings for high-fidelity on-the-go listening and high aesthetics Maple is a stiff dense wood often used to make string instruments such as guitars and violins Here we’ve fused a thin slice of flame-grain maple on top of solid machined maple to produce housings that ensure clear natural sound quality.",
+    "BRAND": "Audio-Technica"
+  },
+  {
+    "PNAME": "ATH-AVC200",
+    "GNAME": "",
+    "COST": "44.99",
+    "MSRP": "45.00",
+    "QHAND": "21",
+    "QBACK": "1",
+    "DESC": "The ATH-AVC200 headphones plug into a variety of audio and video systems to give you full-bodied, theater-like sound in the comfort of your own home or on the go. Equipped with newly designed 40 millimeter drivers that reproduce clear mid and low frequencies and contoured, isolating earpads that retain every bit of the bass, the ATH-AVC200 headphones provide powerful, well-balanced audio to enhance your enjoyment of music and movies.",
+    "BRAND": "Audio-Technica"
+  },
+  {
+    "PNAME": "ATH-M20x",
+    "GNAME": "",
+    "COST": "64.00",
+    "MSRP": "70.00",
+    "QHAND": "42",
+    "QBACK": "0",
+    "DESC": "Online reviewers, top audio professionals and cult followers have long agreed that the ATH-M50 is an unmatched combination of audio and build quality, whether in the studio or on the go. That award-winning formula is embodied in the newly remastered M-Series line, with a model perfectly suited for every discerning listener.",
+    "BRAND": "Audio-Technica"
   }
 ]
