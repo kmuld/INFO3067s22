@@ -1,13 +1,13 @@
 [
   {
-    "PNAME": "",
+    "PNAME": "Game Zero",
     "GNAME": "",
-    "COST": "",
-    "MSRP": "",
-    "QHAND": "",
-    "QBACK": "",
-    "DESC": "",
-    "BRAND": ""
+    "COST": "350.00",
+    "MSRP": "275.00",
+    "QHAND": "3",
+    "QBACK": "2",
+    "DESC": "Cool headset, works well",
+    "BRAND": "Sennheiser"
   },
   {
     "PNAME": "",
