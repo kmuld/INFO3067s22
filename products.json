@@ -1,7 +1,7 @@
 [
   {
     "PNAME": "Game Zero",
-    "GNAME": "",
+    "GNAME": "gamezero.png",
     "COST": "149.00",
     "MSRP": "150.00",
     "QHAND": "8",
@@ -11,7 +11,7 @@
   },
   {
     "PNAME": "ATH-G1",
-    "GNAME": "",
+    "GNAME": "ath-g1.png",
     "COST": "229.00",
     "MSRP": "230.00",
     "QHAND": "5",
@@ -21,7 +21,7 @@
   },
   {
     "PNAME": "Quantum One",
-    "GNAME": "",
+    "GNAME": "quantumone.png",
     "COST": "399.99",
     "MSRP": "400.00",
     "QHAND": "2",
@@ -31,7 +31,7 @@
   },
   {
     "PNAME": "Quantum 100",
-    "GNAME": "",
+    "GNAME": "quantum100.png",
     "COST": "59.98",
     "MSRP": "60.00",
     "QHAND": "12",
@@ -41,7 +41,7 @@
   },
   {
     "PNAME": "Reflect Flow",
-    "GNAME": "",
+    "GNAME": "reflectflow.png",
     "COST": "269.98",
     "MSRP": "270.00",
     "QHAND": "6",
@@ -51,7 +51,7 @@
   },
   {
     "PNAME": "Inspire 100",
-    "GNAME": "",
+    "GNAME": "inspire100.png",
     "COST": "29.99",
     "MSRP": "30.00",
     "QHAND": "19",
@@ -61,7 +61,7 @@
   },
   {
     "PNAME": "Stage A125C",
-    "GNAME": "",
+    "GNAME": "stageA125C.png",
     "COST": "349.98",
     "MSRP": "350.00",
     "QHAND": "2",
@@ -71,7 +71,7 @@
   },
   {
     "PNAME": "HD 599",
-    "GNAME": "",
+    "GNAME": "HD599.png",
     "COST": "199.95",
     "MSRP": "200.00",
     "QHAND": "14",
@@ -81,7 +81,7 @@
   },
   {
     "PNAME": "HD280PRO",
-    "GNAME": "",
+    "GNAME": "HD280Pro.png",
     "COST": "129.95",
     "MSRP": "130.00",
     "QHAND": "8",
@@ -91,7 +91,7 @@
   },
   {
     "PNAME": "RS 135",
-    "GNAME": "",
+    "GNAME": "rs135.png",
     "COST": "179.95",
     "MSRP": "180.00",
     "QHAND": "6",
@@ -101,7 +101,7 @@
   },
   {
     "PNAME": "HD 400S",
-    "GNAME": "",
+    "GNAME": "HD400S.png",
     "COST": "89.99",
     "MSRP": "90.00",
     "QHAND": "9",
@@ -111,7 +111,7 @@
   },
   {
     "PNAME": "ATH-PDG1",
-    "GNAME": "",
+    "GNAME": "ath-pdg1.png",
     "COST": "109.00",
     "MSRP": "110.00",
     "QHAND": "22",
@@ -120,8 +120,8 @@
     "BRAND": "Audio-Technica"
   },
   {
-    "PNAME": "TH-WP900",
-    "GNAME": "",
+    "PNAME": "ATH-WP900",
+    "GNAME": "ath-wp900.png",
     "COST": "949.99",
     "MSRP": "950.00",
     "QHAND": "4",
@@ -131,7 +131,7 @@
   },
   {
     "PNAME": "ATH-AVC200",
-    "GNAME": "",
+    "GNAME": "ath-avc-200.png",
     "COST": "44.99",
     "MSRP": "45.00",
     "QHAND": "21",
@@ -141,7 +141,7 @@
   },
   {
     "PNAME": "ATH-M20x",
-    "GNAME": "",
+    "GNAME": "ath-m20x.png",
     "COST": "64.00",
     "MSRP": "70.00",
     "QHAND": "42",
